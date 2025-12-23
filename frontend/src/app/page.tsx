@@ -70,8 +70,7 @@ export default function Home() {
           className="alert alert-info mt-5 mx-auto"
           style={{ maxWidth: 600 }}
         >
-          You can browse books and categories. Please contact librarian to
-          borrow books.
+          Kamu bisa melihat dan mencari buku dan kategori buku yang kamu mau. Bilang ke Librarian jika kamu ingin meminjam buku
         </div>
       )}
     </div>
